@@ -1,0 +1,6 @@
+Good facade references:
+	- Facade pattern (wikipedia)
+	http://en.wikipedia.org/wiki/Facade_pattern
+	
+	- Facade Design Pattern (SourceMaking)
+	http://sourcemaking.com/design_patterns/facade
