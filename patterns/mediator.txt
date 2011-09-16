@@ -1,0 +1,6 @@
+The good mediator pattern resource:
+	- JavaScript Design Patterns: Mediator (by hb stone)
+	http://arguments.callee.info/2009/05/18/javascript-design-patterns--mediator/
+	
+	- Mediator Design Pattern (SourceMaking)
+	http://sourcemaking.com/design_patterns/mediator
